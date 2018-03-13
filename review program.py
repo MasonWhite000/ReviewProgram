@@ -5,10 +5,10 @@ print ("Hello! To review your subject please answer the following; ")
 
 review_material = []
 
-Movie = []
-Music = []
-Art = []
-Literature = []
+movies = []
+musics = []
+arts = []
+literature = []
 
 
 media_type = []
