@@ -10,8 +10,6 @@ musics = []
 arts = []
 literature = []
 
-
-media_type = []
 media_type = input("What is the media type?: ")
 review_material.append(media_type)
 
