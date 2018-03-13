@@ -1,7 +1,7 @@
 #MasonWhiteFeburary2018
 #Program That Users enter a Review into.
 
-print ("Hello! To review your subject please answear the following; ")
+print ("Hello! To review your subject please answer the following; ")
 
 review_material = []
 
