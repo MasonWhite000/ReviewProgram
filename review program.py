@@ -25,7 +25,7 @@ review_material.append(year)
 description = input("Short Desscription: ")
 review_material.append(description)
 
-rating = float(input("Please Rate it from 0-10, you can use decimals if nessicary: "))
+rating = float(input("Please Rate it from 0-10, you can use decimals if necessary: "))
 review_material.append(rating)
 
 valid = ["Movie", "Song", "Art", "Literature"]
